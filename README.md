@@ -69,12 +69,11 @@ The dataset intentionally includes:
 - Created ratio feature: `balance_v_income = Balance / EstimatedSalary`  
 - Filtered extreme outliers before visualization  
 ---
-
-##  🏁  Conclusion
+## 🏁 Conclusion
 
 From inconsistencies to clarity. 
 This project demonstrates a hands-on approach to transforming raw, fragmented data into a dependable foundation for machine learning.
----
+
 👤 **Author:** Jonathan YE  
 📬 **Contact:** [yewinzaw@gmail.com](mailto:yewinzaw@gmail.com)  
 🔗 **Reference**: mavenanalytics.io/guided_projects
